@@ -130,6 +130,6 @@ map1 <- tm_shape(world_vector) +
             main.title = "Global income by country",
             frame = FALSE)
 
-tmap_save(map1, here("tmap_example.png")
+tmap_save(map1, here("tmap_example.png"))
 ```
 
